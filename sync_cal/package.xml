@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>sync_cal</name>
+  <version>1.0.0</version>
+  <description>external time sync for Flir cameras in trigger mode and calibration for stereo camera system</description>
+
+  <maintainer email="kimsuji0407@gmail.com">Michael Hosmar</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <!--exec_depend>spinnaker_camera_driver</exec_depend-->
+
+  <export>
+  <metapackage/>
+  </export>
+</package>
